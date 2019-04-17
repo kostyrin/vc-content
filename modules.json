@@ -76,5 +76,70 @@
         "authors": [
             
         ]
+    },
+	{
+        "projectUrl": "https://virtocommerce.com/apps/extensions/virto-search-module",
+        "incompatibilities": [
+            
+        ],
+        "description": "Search e-commerce domain functionality",
+        "groups": [
+            "commerce"
+        ],
+        "owners": [
+            "Virto Commerce"
+        ],
+        "title": "Commerce search module",
+        "version": "3.0.0",
+        "dependencies": [
+            
+        ],
+        "packageUrl": "https://github.com/kostyrin/vc-content/raw/master/search.zip",
+        "platformVersion": "3.0.0",
+        "iconUrl": "Modules/$(VirtoCommerce.Search)/Content/logoVC.png",
+        "id": "VirtoCommerce.Search",
+        "authors": [
+            
+        ]
+    },
+	{
+        "projectUrl": "https://virtocommerce.com/apps/extensions/virto-catalog-module",
+        "incompatibilities": [
+            
+        ],
+        "description": "Catalog e-commerce domain functionality",
+        "groups": [
+            "commerce"
+        ],
+        "owners": [
+            "Virto Commerce"
+        ],
+        "title": "Commerce catalog module",
+        "version": "3.0.0",
+        "dependencies": [
+            {
+                "id": "VirtoCommerce.Core",
+                "version": "3.0.0"
+            },
+			{
+                "id": "VirtoCommerce.Search",
+                "version": "3.0.0"
+            },
+			{
+                "id": "VirtoCommerce.Store",
+                "version": "3.0.0"
+            },
+			{
+                "id": "VirtoCommerce.Inventory",
+                "version": "3.0.0"
+            }
+        ],
+        "packageUrl": "https://github.com/kostyrin/vc-content/raw/master/catalog.zip",
+        "platformVersion": "3.0.0",
+        "iconUrl": "Modules/$(VirtoCommerce.Catalog)/Content/logoVC.png",
+        "id": "VirtoCommerce.Catalog",
+        "authors": [
+            
+        ]
     }
 ]
