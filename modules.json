@@ -119,7 +119,7 @@
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
-                "version": "4.0.0"
+                "version": "3.0.0"
             },
 			{
                 "id": "VirtoCommerce.Search",
