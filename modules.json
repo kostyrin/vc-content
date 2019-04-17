@@ -23,5 +23,58 @@
         "authors": [
             
         ]
+    },
+	{
+        "projectUrl": "https://virtocommerce.com/apps/extensions/virto-notifications-module",
+        "incompatibilities": [
+            
+        ],
+        "description": "Notifications e-commerce domain functionality",
+        "groups": [
+            "commerce"
+        ],
+        "owners": [
+            "Virto Commerce"
+        ],
+        "title": "Commerce Notifications module",
+        "version": "3.0.0",
+        "dependencies": [
+            
+        ],
+        "packageUrl": "https://github.com/kostyrin/vc-content/raw/master/notifications.zip",
+        "platformVersion": "3.0.0",
+        "iconUrl": "Modules/$(VirtoCommerce.Notifications)/Content/logoVC.png",
+        "id": "VirtoCommerce.Notifications",
+        "authors": [
+            
+        ]
+    },
+	{
+        "projectUrl": "https://virtocommerce.com/apps/extensions/virto-notifications-module",
+        "incompatibilities": [
+            
+        ],
+        "description": "Notifications sample e-commerce domain functionality",
+        "groups": [
+            "commerce"
+        ],
+        "owners": [
+            "Virto Commerce"
+        ],
+        "title": "Commerce Notifications sample module",
+        "version": "3.0.0",
+        "dependencies": [
+            {
+                "id": "VirtoCommerce.Notifications",
+                "version": "3.0.0"
+            }
+        ],
+        "packageUrl": "https://github.com/kostyrin/vc-content/raw/master/notifications-sample.zip",
+        "platformVersion": "3.0.0",
+        "iconUrl": "Modules/$(VirtoCommerce.NotificationsSample)/Content/logoVC.png",
+        "id": "VirtoCommerce.NotificationsSample",
+        "authors": [
+            
+        ]
     }
 ]
