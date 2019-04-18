@@ -133,5 +133,69 @@
         "authors": [
             
         ]
+    },
+	{
+        "projectUrl": "https://virtocommerce.com/apps/extensions/virto-inventory-module",
+        "incompatibilities": [
+            
+        ],
+        "description": "Inventory e-commerce domain functionality",
+        "groups": [
+            "commerce"
+        ],
+        "owners": [
+            "Virto Commerce"
+        ],
+        "title": "Commerce Inventory module",
+        "version": "3.0.0",
+        "dependencies": [
+            {
+                "id": "VirtoCommerce.Core",
+                "version": "3.0.0"
+            },
+			{
+                "id": "VirtoCommerce.Catalog",
+                "version": "3.0.0"
+            }
+        ],
+        "packageUrl": "https://github.com/kostyrin/vc-content/raw/master/inventory.zip",
+        "platformVersion": "3.0.0",
+        "iconUrl": "Modules/$(VirtoCommerce.Inventory)/Content/logoVC.png",
+        "id": "VirtoCommerce.Inventory",
+        "authors": [
+            
+        ]
+    },
+	{
+        "projectUrl": "https://virtocommerce.com/apps/extensions/virto-store-module",
+        "incompatibilities": [
+            
+        ],
+        "description": "Store e-commerce domain functionality",
+        "groups": [
+            "commerce"
+        ],
+        "owners": [
+            "Virto Commerce"
+        ],
+        "title": "Commerce store module",
+        "version": "3.0.0",
+        "dependencies": [
+            {
+                "id": "VirtoCommerce.Core",
+                "version": "3.0.0"
+            },
+			{
+                "id": "VirtoCommerce.Catalog",
+                "version": "3.0.0"
+            }
+        ],
+        "packageUrl": "https://github.com/kostyrin/vc-content/raw/master/store.zip",
+        "platformVersion": "3.0.0",
+        "iconUrl": "Modules/$(VirtoCommerce.Store)/Content/logoVC.png",
+        "id": "VirtoCommerce.Store",
+        "authors": [
+            
+        ]
     }
 ]
