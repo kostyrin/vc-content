@@ -17,7 +17,7 @@
             
         ],
         "packageUrl": "https://github.com/kostyrin/vc-content/raw/master/core.zip",
-        "platformVersion": "2.13.43",
+        "platformVersion": "3.0.0",
         "iconUrl": "Modules/$(VirtoCommerce.Core)/Content/logoVC.png",
         "id": "VirtoCommerce.Core",
         "authors": [
@@ -42,7 +42,7 @@
             
         ],
         "packageUrl": "https://github.com/kostyrin/vc-content/raw/master/notifications.zip",
-        "platformVersion": "2.13.43",
+        "platformVersion": "3.0.0",
         "iconUrl": "Modules/$(VirtoCommerce.Notifications)/Content/logoVC.png",
         "id": "VirtoCommerce.Notifications",
         "authors": [
@@ -70,7 +70,7 @@
             }
         ],
         "packageUrl": "https://github.com/kostyrin/vc-content/raw/master/notifications-sample.zip",
-        "platformVersion": "2.13.43",
+        "platformVersion": "3.0.0",
         "iconUrl": "Modules/$(VirtoCommerce.NotificationsSample)/Content/logoVC.png",
         "id": "VirtoCommerce.NotificationsSample",
         "authors": [
@@ -95,7 +95,7 @@
             
         ],
         "packageUrl": "https://github.com/kostyrin/vc-content/raw/master/search.zip",
-        "platformVersion": "2.13.43",
+        "platformVersion": "3.0.0",
         "iconUrl": "Modules/$(VirtoCommerce.Search)/Content/logoVC.png",
         "id": "VirtoCommerce.Search",
         "authors": [
@@ -115,7 +115,7 @@
             "Virto Commerce"
         ],
         "title": "Commerce catalog module",
-        "version": "2.0.0",
+        "version": "3.0.0",
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
@@ -123,7 +123,7 @@
             }
         ],
         "packageUrl": "https://github.com/kostyrin/vc-content/raw/master/catalog.zip",
-        "platformVersion": "2.13.43",
+        "platformVersion": "3.0.0",
         "iconUrl": "Modules/$(VirtoCommerce.Catalog)/Content/logoVC.png",
         "id": "VirtoCommerce.Catalog",
         "authors": [
@@ -143,15 +143,15 @@
             "Virto Commerce"
         ],
         "title": "Commerce Inventory module",
-        "version": "2.0.0",
+        "version": "3.0.0",
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
-                "version": "2.0.0"
+                "version": "3.0.0"
             }
         ],
         "packageUrl": "https://github.com/kostyrin/vc-content/raw/master/inventory.zip",
-        "platformVersion": "2.13.43",
+        "platformVersion": "3.0.0",
         "iconUrl": "Modules/$(VirtoCommerce.Inventory)/Content/logoVC.png",
         "id": "VirtoCommerce.Inventory",
         "authors": [
@@ -171,15 +171,15 @@
             "Virto Commerce"
         ],
         "title": "Commerce store module",
-        "version": "2.5.0",
+        "version": "3.0.0",
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
-                "version": "2.5.0"
+                "version": "3.0.0"
             }
         ],
         "packageUrl": "https://github.com/kostyrin/vc-content/raw/master/store.zip",
-        "platformVersion": "2.13.43",
+        "platformVersion": "3.0.0",
         "iconUrl": "Modules/$(VirtoCommerce.Store)/Content/logoVC.png",
         "id": "VirtoCommerce.Store",
         "authors": [
