@@ -123,7 +123,7 @@
             },
 			{
                 "id": "VirtoCommerce.Search",
-                "version": "4.0.0"
+                "version": "3.0.0"
             }
         ],
         "packageUrl": "https://github.com/kostyrin/vc-content/raw/master/catalog.zip",
