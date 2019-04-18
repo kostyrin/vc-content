@@ -12,7 +12,7 @@
             "Virto Commerce"
         ],
         "title": "Commerce core module",
-        "version": "3.1.0",
+        "version": "2.0.0",
         "dependencies": [
             
         ],
@@ -115,15 +115,15 @@
             "Virto Commerce"
         ],
         "title": "Commerce catalog module",
-        "version": "2.5.0",
+        "version": "3.0.0",
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
-                "version": "2.0.0"
+                "version": "3.0.0"
             },
 			{
                 "id": "VirtoCommerce.Search",
-                "version": "2.0.0"
+                "version": "3.0.0"
             }
         ],
         "packageUrl": "https://github.com/kostyrin/vc-content/raw/master/catalog.zip",
@@ -179,11 +179,11 @@
             "Virto Commerce"
         ],
         "title": "Commerce store module",
-        "version": "3.0.0",
+        "version": "2.5.0",
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
-                "version": "3.0.0"
+                "version": "2.5.0"
             },
 			{
                 "id": "VirtoCommerce.Catalog",
