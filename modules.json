@@ -17,7 +17,7 @@
             
         ],
         "packageUrl": "https://github.com/kostyrin/vc-content/raw/master/core.zip",
-        "platformVersion": "3.0.0",
+        "platformVersion": "2.13.43",
         "iconUrl": "Modules/$(VirtoCommerce.Core)/Content/logoVC.png",
         "id": "VirtoCommerce.Core",
         "authors": [
@@ -42,7 +42,7 @@
             
         ],
         "packageUrl": "https://github.com/kostyrin/vc-content/raw/master/notifications.zip",
-        "platformVersion": "3.0.0",
+        "platformVersion": "2.13.43",
         "iconUrl": "Modules/$(VirtoCommerce.Notifications)/Content/logoVC.png",
         "id": "VirtoCommerce.Notifications",
         "authors": [
@@ -70,7 +70,7 @@
             }
         ],
         "packageUrl": "https://github.com/kostyrin/vc-content/raw/master/notifications-sample.zip",
-        "platformVersion": "3.0.0",
+        "platformVersion": "2.13.43",
         "iconUrl": "Modules/$(VirtoCommerce.NotificationsSample)/Content/logoVC.png",
         "id": "VirtoCommerce.NotificationsSample",
         "authors": [
@@ -95,7 +95,7 @@
             
         ],
         "packageUrl": "https://github.com/kostyrin/vc-content/raw/master/search.zip",
-        "platformVersion": "3.0.0",
+        "platformVersion": "2.13.43",
         "iconUrl": "Modules/$(VirtoCommerce.Search)/Content/logoVC.png",
         "id": "VirtoCommerce.Search",
         "authors": [
@@ -127,7 +127,7 @@
             }
         ],
         "packageUrl": "https://github.com/kostyrin/vc-content/raw/master/catalog.zip",
-        "platformVersion": "3.0.0",
+        "platformVersion": "2.13.43",
         "iconUrl": "Modules/$(VirtoCommerce.Catalog)/Content/logoVC.png",
         "id": "VirtoCommerce.Catalog",
         "authors": [
@@ -159,7 +159,7 @@
             }
         ],
         "packageUrl": "https://github.com/kostyrin/vc-content/raw/master/inventory.zip",
-        "platformVersion": "3.0.0",
+        "platformVersion": "2.13.43",
         "iconUrl": "Modules/$(VirtoCommerce.Inventory)/Content/logoVC.png",
         "id": "VirtoCommerce.Inventory",
         "authors": [
@@ -191,7 +191,7 @@
             }
         ],
         "packageUrl": "https://github.com/kostyrin/vc-content/raw/master/store.zip",
-        "platformVersion": "3.0.0",
+        "platformVersion": "2.13.43",
         "iconUrl": "Modules/$(VirtoCommerce.Store)/Content/logoVC.png",
         "id": "VirtoCommerce.Store",
         "authors": [
