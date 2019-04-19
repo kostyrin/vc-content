@@ -12,9 +12,12 @@
             "Virto Commerce"
         ],
         "title": "Commerce core module",
-        "version": "3.0.0",
+        "version": "3.1.0",
         "dependencies": [
-            
+            {
+                "id": "VirtoCommerce.Store",
+                "version": "3.0.0"
+            }
         ],
         "packageUrl": "https://github.com/kostyrin/vc-content/raw/master/core.zip",
         "platformVersion": "3.0.0",
@@ -115,12 +118,9 @@
             "Virto Commerce"
         ],
         "title": "Commerce catalog module",
-        "version": "3.0.0",
+        "version": "3.2.0",
         "dependencies": [
-            {
-                "id": "VirtoCommerce.Core",
-                "version": "3.0.0"
-            }
+            
         ],
         "packageUrl": "https://github.com/kostyrin/vc-content/raw/master/catalog.zip",
         "platformVersion": "3.0.0",
@@ -143,7 +143,7 @@
             "Virto Commerce"
         ],
         "title": "Commerce Inventory module",
-        "version": "3.0.0",
+        "version": "3.5.0",
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
@@ -171,11 +171,11 @@
             "Virto Commerce"
         ],
         "title": "Commerce store module",
-        "version": "3.0.0",
+        "version": "3.8.0",
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
-                "version": "3.0.0"
+                "version": "3.2.0"
             }
         ],
         "packageUrl": "https://github.com/kostyrin/vc-content/raw/master/store.zip",
