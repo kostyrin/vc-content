@@ -120,6 +120,10 @@
             {
                 "id": "VirtoCommerce.Core",
                 "version": "3.0.0"
+            },
+			{
+                "id": "VirtoCommerce.Search",
+                "version": "3.0.0"
             }
         ],
         "packageUrl": "https://github.com/kostyrin/vc-content/raw/master/catalog.zip",
@@ -148,6 +152,10 @@
             {
                 "id": "VirtoCommerce.Core",
                 "version": "3.0.0"
+            },
+			{
+                "id": "VirtoCommerce.Catalog",
+                "version": "3.0.0"
             }
         ],
         "packageUrl": "https://github.com/kostyrin/vc-content/raw/master/inventory.zip",
@@ -175,6 +183,10 @@
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
+                "version": "3.0.0"
+            },
+			{
+                "id": "VirtoCommerce.Catalog",
                 "version": "3.0.0"
             }
         ],
