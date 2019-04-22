@@ -2,7 +2,10 @@
     {
         "projectUrl": "https://virtocommerce.com/apps/extensions/virto-core-module",
         "incompatibilities": [
-            
+            {
+                "id": "VirtoCommerce.Search",
+                "version": "3.0.0"
+            }
         ],
         "description": "Common e-commerce domain functionality",
         "groups": [
