@@ -179,7 +179,7 @@
         "version": "3.0.0",
         "dependencies": [
             {
-                "id": "VirtoCommerce.Catalog",
+                "id": "VirtoCommerce.Core",
                 "version": "3.0.0"
             },
 			{
