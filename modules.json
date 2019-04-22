@@ -176,11 +176,11 @@
             "Virto Commerce"
         ],
         "title": "Commerce store module",
-        "version": "3.8.0",
+        "version": "3.0.0",
         "dependencies": [
             {
                 "id": "VirtoCommerce.Catalog",
-                "version": "3.2.0"
+                "version": "3.0.0"
             },
 			{
                 "id": "VirtoCommerce.Catalog",
