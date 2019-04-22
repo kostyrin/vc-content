@@ -144,7 +144,7 @@
             "Virto Commerce"
         ],
         "title": "Commerce Inventory module",
-        "version": "3.5.0",
+        "version": "3.0.0",
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
